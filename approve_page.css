@@ -334,3 +334,21 @@ body {
     border-radius: 50%;
     cursor: pointer;
 }
+
+/* table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+table, th, td {
+    border: 1px solid #ddd;
+}
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+th {
+    background-color: #81B3D2;
+    color: white;
+}
